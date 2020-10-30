@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:#f4eed2;
+}
+.line
+{
+    width: 25rem;
+    border-bottom: 1px solid black;
+    margin-left:27rem ;
+}
+.tahir
+{
+    font-family: cursive;
+}
+.bhola
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
